@@ -48,7 +48,7 @@ export default function SignUpPage({ onNavigate, onSignUpSuccess }: SignUpPagePr
     setLoading(true);
 
     try {
-      const response = await fetch('http://localhost:3001/api/signup', {
+      const response = await fetch('https://phoenix-league-backend.onrender.com/api/signup', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
