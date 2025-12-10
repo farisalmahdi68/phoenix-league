@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "faris",
+      "email": "faris.almahdi68@gmail.com",
+      "password": "$2a$10$xh30f1DWq0Ll/otZyh//ZOsu6D9XZklv.TZ0XutjXpjn1/MkY.b/m",
+      "country": "JO",
+      "phone": "0787515090",
+      "createdAt": "2025-12-06T15:16:19.524Z"
+    }
+  ]
+}
